@@ -1,0 +1,19 @@
+.sidebar{
+    height: 100vh;
+    width: 150px;
+    background-color:rgb(48, 14, 172);
+}
+
+.item{
+    color: white;
+}
+.symbol{
+    color: gray;
+    font-size: 20px;
+}
+.symbol:hover{
+    color: white;
+}
+.item:hover{
+    color: blue;
+}
